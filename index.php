@@ -7,5 +7,6 @@
 
 <body>
     <h1>See dokument on minu esimene katsetus PHP-ga</h1>
+    <?php echo "tootab"; ?>
 </body>
 </html>
