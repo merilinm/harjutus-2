@@ -6,9 +6,19 @@
 </head>
 
 <body>
+
     <h1>See dokument on minu esimene katsetus PHP-ga</h1>
+    <?php // My first string. ?>
     <?php echo "tootab"; ?><br>
+    <?php # String plus string. ?>
     <?php echo "Unos" . " Dos."; ?><br>
+    <?php
+    /*
+        Calculations
+        with
+        numbers.
+    */
+?>
     <?php echo 5.99 + 6; ?><br>
     <?php echo 99.1 - 6; ?><br>
     <?php echo 5 * 6; ?><br>
