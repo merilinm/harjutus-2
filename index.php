@@ -17,7 +17,7 @@
         with
         numbers.
     */
-?>
+    ?>
     <?php echo 5.99 + 6; ?><br>
     <?php echo 99.1 - 6; ?><br>
     <?php echo 5 * 6; ?><br>
@@ -33,6 +33,6 @@
     echo "<br>";
     $var3 = "see on s6na";
     echo $var3;
-?>
+    ?>
 </body>
 </html>
